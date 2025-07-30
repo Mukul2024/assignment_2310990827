@@ -70,12 +70,11 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="959.5419847328244" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="900" y="4"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="8Ed-Rx-G5N">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="5uP-qm-oQu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController modalPresentationStyle="fullScreen" id="7ep-3u-jgp" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="uTV-C1-jc1">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
@@ -85,8 +84,9 @@
                     </view>
                     <navigationItem key="navigationItem" largeTitleDisplayMode="always" id="XLd-d9-DUw"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5uP-qm-oQu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1623.6641221374045" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="1798" y="4"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="zOv-Id-oes">
@@ -112,7 +112,7 @@
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="systemRedColor">
-            <color red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
